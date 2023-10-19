@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gavesh Tomer</h1>
+<h1 align="center">Hi 👋, I'm Gavesh </h1>
 <h3 align="center">Open source enthusiast 💻 || Code, Commit, Collaborate 🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952yw148tpt5eg4n1k4k59jur4tdh48ftwni4i5tsvb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
